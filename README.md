@@ -1,14 +1,14 @@
-# Resolve merge conflicts
+# Resolve Merge Conflicts
 
 _Learn why conflicts happen and how to resolve them._
 
 ## Welcome
 
-Merge conflicts happen when two people make changes to the same file on GitHub—a common occurrence when you’re working with others. While resolving differences might involve some discussion, merge conflicts don’t have to be scary. This course guides you through the steps to finding the best merge conflict solution, so your team can keep building.
+Merge conflicts happen when two people make changes to the same file on GitHub—a common occurrence when you’re working with others. While resolving differences might involve some discussion, merge conflicts don’t have to be scary.
 
-- **Who is this for**: New developers, new Git/GitHub users
+- **Who is this for**: New developers, new Git and GitHub users
 - **What you'll learn**: We'll introduce the tools for inspecting and resolving a merge conflict.
-- **What you'll build**: The reviewing of conflicting changes proposed to a simple Markdown.
+- **What you'll build**: You'll use a web editor to fix conflicting changes to Markdown file.
 - **Prerequisites**:
   - Skills Exercise: [Introduction to GitHub](https://github.com/skills-dev/introduction-to-github)
 - **How long**: less than 30 minutes

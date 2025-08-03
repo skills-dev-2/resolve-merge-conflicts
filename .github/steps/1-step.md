@@ -2,7 +2,7 @@
 
 ### What is a merge conflict?
 
-A **merge conflict** occurs when changes are made to the same part of the same file on two different branches. You usually find out about conflicts in a pull request so let's start by creating one.
+A **merge conflict** occurs when changes are made to the same part of the same file on two different branches.
 
 ```mermaid
 gitGraph
@@ -34,11 +34,11 @@ gitGraph
 
 ### ⌨️ Activity: Create a pull request
 
-To quickly practice, we already created the above scenario for you by making a new branch `my-resume` then modifying `resume.md` on both branches, will will cause a conflict. Let's practice with it!
+To quickly practice, we already created the above scenario for you by making a new branch `my-resume` then modifying `resume.md` on both branches, which will will cause a conflict. Let's practice with it!
 
 1. Open this repo in a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 
-1. In the top navigation, select the **Pull Requests** tab.
+1. In the top navigation, select the **Pull requests** tab.
 
 1. Click the **New pull request** button and use the following settings:
 

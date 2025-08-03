@@ -41,14 +41,14 @@ jobs:
           git config user.email github-actions[bot]@users.noreply.github.com
           echo "- Contributed to open source projects" >> resume.md
           git add resume.md
-          git commit -m "Add open source contribution"
+          git commit -m "Add open source experience"
           git push origin my-resume
 
           git checkout main
           git pull --rebase origin main
-          echo "- Built internal tools at Acme Corp" >> resume.md
+          echo "- Built internal tools" >> resume.md
           git add resume.md
-          git commit -m "Add Acme Corp experience"
+          git commit -m "Add internal experience"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,11 +1,13 @@
 ## Step 3: Merge your pull request
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+Nice work! All that is left is to merge!
+
+Yep, that's it! Merge conflicts can be easy! 🥰
 
 ### ⌨️ Activity: Merge your pull request
 
-1. First, resolve any remaining conflicts in your pull request.
-   > Look back at step one if you need help.
-1. Click **Merge pull request**.
-1. Delete the branch `my-resume` (optional).
-1. Now that your pull request is merged, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
+1. Click the **Merge pull request** button.
+
+1. (optional) Delete the branch `my-resume`.
+
+1. With the pull request merged, Mona will share a final review then update the readme to share your success. Nice work! 😎

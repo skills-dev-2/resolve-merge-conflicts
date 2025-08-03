@@ -9,7 +9,7 @@ You typically have 3 options for managing a conflict:
 1. Manually combined the changes from both branches.
 
 > [!TIP]
-> You can learn more about managing conflicts with on the [GitHub Docs: resolve the conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) page.
+> You can learn more about managing conflicts on the [GitHub Docs: resolve the conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) page.
 
 ### When should I resolve a conflict?
 
@@ -46,7 +46,7 @@ gitGraph
 
 1. Open the recently created pull request.
 
-1. Scroll to the bottom of the page. Near the merge button, notice a message indicating there is a merge conflict.
+1. Scroll to the bottom of the page. Near the merge button, notice a message indicating there are conflicts to be resolved.
 
 1. Press the **Resolve conflicts** button to open a special text editor for handling merge conflicts.
 
