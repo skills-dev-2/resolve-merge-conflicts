@@ -28,8 +28,8 @@ gitGraph
 
 1. We start with a repository and add a `resume.md` file.
 2. We create a new branch called `my-resume` and update the skills area.
-3. At the same time, someone else updates the skills section on the `main` branch.
-4. We add more changes to the `my-resume` branch
+3. At the same time, someone else also updates the skills area on the `main` branch.
+4. We add other unrelated changes to the `my-resume` branch.
 5. When we try to merge `my-resume` into `main`, we get a **conflict!** Both branches modified the same part of `resume.md`.
 
 ### ⌨️ Activity: Create a pull request

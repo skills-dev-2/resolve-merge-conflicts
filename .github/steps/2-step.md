@@ -38,13 +38,13 @@ gitGraph
     commit id: "Continue work"
 
     checkout main
-    merge my-resume id: "Successful!"
+    merge my-resume id: "Success!"
 
 ```
 
 ### ⌨️ Activity: Resolve a merge conflict
 
-1. Open the recently created pull request.
+1. If needed, open the recently created pull request.
 
 1. Scroll to the bottom of the page. Near the merge button, notice a message indicating there are conflicts to be resolved.
 
@@ -54,9 +54,9 @@ gitGraph
 
    ```txt
    <<<<<<< my-resume
-   (... compare branch version ...)
+   - Contributed to open source projects
    =======
-   (... base branch version ...)
+   - Built internal tools
    >>>>>>> main
    ```
 
@@ -64,7 +64,7 @@ gitGraph
 
    ```txt
    <<<<<<< my-resume
-   (... compare branch version ...)
+   - Contributed to open source projects
    =======
    >>>>>>> main
    ```
@@ -72,7 +72,7 @@ gitGraph
 1. With our manual changes finished, let's remove the merge conflict markers. Only the content from the compare branch will remain.
 
    ```txt
-   (... compare branch version ...)
+   - Contributed to open source projects
    ```
 
 1. In the top right, click the **Mark as resolved** button and choose **Commit merge**.

@@ -1,7 +1,6 @@
 ## Step 3: Merge your pull request
 
-Nice work! All that is left is to merge!
-
+Nice work! All that remains is to merge!
 Yep, that's it! Merge conflicts can be easy! 🥰
 
 ### ⌨️ Activity: Merge your pull request
